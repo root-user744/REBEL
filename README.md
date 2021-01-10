@@ -6,11 +6,11 @@ And also it automates the work of exploiting with the MEtasploitFramework.
 ---
 
 ###  Screenshots:
-![Screenshot1](https://github.com/root-user744/theMathShell/blob/master/Screenshots/ss1.png)
+![Screenshot1](Screenshots/ss1.png)
 
-![Screenshot2](https://github.com/root-user744/theMathShell/blob/master/Screenshots/ss2.png)
+![Screenshot2](Screenshots/ss2.png)
 
-![Screenshot3](https://github.com/root-user744/theMathShell/blob/master/Screenshots/ss3.png)
+![Screenshot3](Screenshots/ss3.png)
 
 ---
 
