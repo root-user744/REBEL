@@ -154,6 +154,7 @@ if embed == "yes" or embed == "Yes" or embed == "YES" or embed == "y" or embed =
 		sentence2 = (f'\n\033[32mGenerating embeded payload having name "{payloadName}" with love only for you...\033[0m\n')
 	else:
 		newName == True
+		print("[\033[31m:✗:\033[0m]\033[31mNo path was provided.\033[0m\n[\033[34m:+:\033[0m]\033[32mSelecting the present directory to output it.\033[0m")
 		sentence2 = (f'\n\033[32mGenerating embeded payload "{payloadName}" at {payloadPath}\033[0m\n')
 	animateWord(sentence2)
 	print()
